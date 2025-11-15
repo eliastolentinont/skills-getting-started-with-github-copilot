@@ -117,7 +117,7 @@ section h3 {
 }
 .delete-participant:hover {
   background: #ffebee;
-  color: #fff;
+  color: #c62828;
   border: 1px solid #c62828;
 }
 .participants-section.empty {
